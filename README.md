@@ -1,2 +1,2 @@
 # Halloween
-Coolection of random Arduino sketches for Halloween 
+Collection of random Arduino sketches for Halloween 
